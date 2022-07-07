@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rushikesh Papal
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning full stack leaning Advance JS and React JS
+- 🌱 I’m currently learning full stack learning Advance JS and React JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
