@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-[![Rushikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rushsh67)](https://github.com/rushsh67/github-readme-stats)
+<!-- [![Rushikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rushsh67)](https://github.com/rushsh67/github-readme-stats) -->
 
 <!---
 rushsh67/rushsh67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
